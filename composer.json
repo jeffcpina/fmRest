@@ -1,17 +1,17 @@
 {
-    "name": "jeffcpina/officeintegrator",
-    "description": "Rewritten Zohowriter PHP-API",
-    "keywords": ["zoho writer","PHP-API"],
-    "license": "BSD-3-Clause",
+    "name": "jeffcpina/fmrest",
+    "description": "Rewritten filemaker PHP-API",
+    "keywords": ["filemaker","PHP-API"],
+    "license": "MIT",
     "authors": [
         {
-            "name": "Prabakaran Raburaj",
-            "email": "raburaji93@gmail.com"
+            "name": "Paradise Partners",
+            "email": "info@sosimplesoftware.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "jeffcpina\\officeintegrator\\": "src/"
+            "jeffcpina\\fmRest\\": "src/"
         }
     }
 }
